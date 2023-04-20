@@ -1,1 +1,3 @@
-this is feature 3.Its from devloper1.
+this is feature 3.Its from devloper1.-update
+
+dev2 added his changes.
